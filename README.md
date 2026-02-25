@@ -86,7 +86,7 @@ Aquest projecte està sota la llicència **The Unlicense**. Aquest codi és de d
 
 **English:**
 
-# Product Purchase (Pt5)
+# Product Purchase 
 
 Create a Flutter application  that expands the functionality of previous practice by adding a second screen to display the final purchase summary. In this practice, you will integrate the following concepts:
 
